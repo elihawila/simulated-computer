@@ -23,7 +23,7 @@ string logo = R"(
 
 This assembler is intended only for processing programs written in the "Hack Assembly Language" which was developed by
  professor Shimon Schocken & professor Noam Nissim at the Hebrew University of Jerusalem. The assembler was designed
-      and built by Stellar Technologies, and is available as open source for training and education purposes.
+      and built by Eliyahu Hawila, and is available as open source for training and education purposes.
 =====================================================================================================================                            
 )";
 
